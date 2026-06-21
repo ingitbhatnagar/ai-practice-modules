@@ -1,0 +1,25 @@
+# Python dependencies for AI Practice Modules
+
+# Jupyter
+jupyter>=1.0.0
+ipython>=8.12.0
+ipykernel>=6.20.0
+
+# LLM Providers
+# IBM Watsonx AI
+ibm-watsonx-ai>=1.0.8
+langchain-ibm>=0.1.7
+
+# General LangChain
+langchain>=0.2.11
+langchain-core>=0.2.43
+
+# Other LLM providers (optional - install as needed)
+# langchain-openai>=0.1.0  # For OpenAI
+# langchain-anthropic>=0.1.0  # For Anthropic Claude
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
